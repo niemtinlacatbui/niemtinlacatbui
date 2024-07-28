@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/niemtinlacatbui" target="blank"><img src="https://img.shields.io/twitter/follow/niemtinlacatbui?logo=twitter&style=for-the-badge" alt="niemtinlacatbui" /></a> </p>
 This is where I develop everything and break everything 🤣
-- 👨‍💻 Currently, I am a Freelancer
-- 🔭 Currently, I am working on something interesting 😉
-- 🌱 I am currently learning SEO, Back-end development, and writing
-- 💬 Ask me anything about Javascript/CSS/Python or about love 😉
-- 👨‍💻 Read more about my projects and blogs at weblogs.dev
-- ⚡ Fun fact **I ❤️👨‍💻 listening to music and playing games in my free time**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=niemtinlacatbui)](https://git.io/streak-stats)
+<li> 👨‍💻 Currently, I am a Freelancer</li>
+<li> 🔭 Currently, I am working on something interesting 😉</li>
+<li> 🌱 I am currently learning SEO, Back-end development, and writing</li>
+<li> 💬 Ask me anything about Javascript/CSS/Python or about love 😉</li>
+<li> 👨‍💻 Read more about my projects and blogs at weblogs.dev</li>
+<li> ⚡ Fun fact **I ❤️👨‍💻 listening to music and playing games in my free time**</li>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/niemtinlacatbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="niemtinlacatbui" height="30" width="40" /></a>
